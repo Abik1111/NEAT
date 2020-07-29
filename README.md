@@ -13,5 +13,5 @@ DNA.py contains the class for creating an individual genome, a single member of 
 POPN.py contains the class for creating a population, a bunch of genomes\
 \
 MAIN.py uitlizes the two files to implement the complete algorithm\
-\
+
 
