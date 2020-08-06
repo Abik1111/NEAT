@@ -8,10 +8,7 @@ http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf\
 \
 \
 \
-DNA.py contains the class for creating an individual genome, a single member of the population\
-\
-POPN.py contains the class for creating a population, a bunch of genomes\
-\
-MAIN.py uitlizes the two files to implement the complete algorithm\
+NEAT.py contains all the requirements for running the program, no extra files are present.\
+I am still working on the documentation of the program and will be updated shortly.\
 
 
