@@ -1,6 +1,6 @@
 # NEAT
 Neuro Evolution Augmented Topology\
-One of the most revolutionary idea in the field of neural networks and genetic algorith.\
+One of the most revolutionary idea in the field of neural networks and genetic algorithm.\
 \
 \
 For more information:\
